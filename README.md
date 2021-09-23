@@ -1,7 +1,7 @@
+# DEPRECATED: This package was moved to [@growi/plugin-attachment-refs](https://github.com/weseek/growi/tree/master/packages/plugin-attachment-refs)
+
 # growi-plugin-attachment-refs
 
-[![dependencies status](https://david-dm.org/weseek/growi-plugin-attachment-refs.svg)](https://david-dm.org/weseek/growi-plugin-attachment-refs)
-[![devDependencies Status](https://david-dm.org/weseek/growi-plugin-attachment-refs/dev-status.svg)](https://david-dm.org/weseek/growi-plugin-attachment-refs?type=dev)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 Install
